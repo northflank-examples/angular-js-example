@@ -13,7 +13,7 @@ Deploy this Angular.js web application easily with [Northflank](https://www.nort
 
 
 ### Live Demo
-[https://port--angular-example--examples--nort-xjjq.code.run](https://port--angular-example--examples--nort-xjjq.code.run)
+[https://example--angular-js--examples--nort-kcwl.code.run](https://example--angular-js--examples--nort-kcwl.code.run)
 
 
 ## About Angular
