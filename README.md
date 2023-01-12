@@ -10,6 +10,10 @@ Deploy this Angular.js web application easily with [Northflank](https://www.nort
 - Select the Angular template
 - Wait for the app to build and visit the newly assigned URL. That's it!
 
+You can now clone your repository locally and start making changes. Push your changes to automatically build and deploy the updated application!
+
+[Learn more about using Northflank](https://northflank.com/docs/).
+
 ## About Angular
 [AngularJS](https://angularjs.org) is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications.
 
